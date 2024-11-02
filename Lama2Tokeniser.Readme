@@ -5,7 +5,7 @@ https://www.llama.com/llama-downloads/
 Access is given in few mins generally
 
 2) Go to huggugging face and create a token
-While doing it, make sure you see the lama models in section "Repositories permissions"
+While doing it, make sure you select the lama models in section "Repositories permissions"
 
 3) Copy the created token, put inside a notepad file, upload the file into your google drive location as below format
 GenAISamples/<filename>.txt
