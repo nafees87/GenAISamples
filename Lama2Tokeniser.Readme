@@ -14,6 +14,10 @@ GenAISamples/<filename>.txt
 
 5) Run the colab, make sure to authorize access of google drive from colab
 
+Alternatively its much easier to use the token and save it inside the secrets section of Colab
+Once added. Its accessed like this
 
+from google.colab import userdata
+token = userdata.get('hflamatoken')
 
 
