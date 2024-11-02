@@ -1,0 +1,19 @@
+Lama2Tokeniser.ipynb 
+Perequisite 
+1) Go to Meta website and request access for using Lama 
+https://www.llama.com/llama-downloads/
+Access is given in few mins generally
+
+2) Go to huggugging face and create a token
+While doing it, make sure you see the lama models in section "Repositories permissions"
+
+3) Copy the created token, put inside a notepad file, upload the file into your google drive location as below format
+GenAISamples/<filename>.txt
+
+4) Make sure to update colab notebook with right txt file name for the variable "token_file_path"
+
+5) Run the colab, make sure to authorize access of google drive from colab
+
+
+
+
